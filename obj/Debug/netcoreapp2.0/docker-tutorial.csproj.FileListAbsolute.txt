@@ -1,0 +1,10 @@
+/home/leol/development/dotnet/docker-tutorial/bin/Debug/netcoreapp2.0/docker-tutorial.deps.json
+/home/leol/development/dotnet/docker-tutorial/bin/Debug/netcoreapp2.0/docker-tutorial.runtimeconfig.json
+/home/leol/development/dotnet/docker-tutorial/bin/Debug/netcoreapp2.0/docker-tutorial.runtimeconfig.dev.json
+/home/leol/development/dotnet/docker-tutorial/bin/Debug/netcoreapp2.0/docker-tutorial.dll
+/home/leol/development/dotnet/docker-tutorial/bin/Debug/netcoreapp2.0/docker-tutorial.pdb
+/home/leol/development/dotnet/docker-tutorial/obj/Debug/netcoreapp2.0/docker-tutorial.csproj.CoreCompileInputs.cache
+/home/leol/development/dotnet/docker-tutorial/obj/Debug/netcoreapp2.0/docker-tutorial.AssemblyInfoInputs.cache
+/home/leol/development/dotnet/docker-tutorial/obj/Debug/netcoreapp2.0/docker-tutorial.AssemblyInfo.cs
+/home/leol/development/dotnet/docker-tutorial/obj/Debug/netcoreapp2.0/docker-tutorial.dll
+/home/leol/development/dotnet/docker-tutorial/obj/Debug/netcoreapp2.0/docker-tutorial.pdb
